@@ -5,3 +5,4 @@ Python >= 3.8
 OpenCV (cv2)
 Ultralytics YOLOv8
 🔧 ติดตั้งไลบรารีที่จำเป็น
+pip install opencv-python ultralytics
